@@ -1,22 +1,24 @@
 # 🏢 TradingCompanyNetwork
 
-Cisco Packet Tracer ile yapılandırılmış **Özen Kardeşler E-Ticaret Şirketi**. Bu proje; satış, insan kaynakları, finans, bilgi işlem ve yönetim gibi departmanlar arasında VLAN ayrımı, IP planlaması, yönlendirme (routing), DHCP, DNS , Web ve Mail sunucuları gerçekçi bir ağ altyapısı sunar.
+Cisco Packet Tracer ile oluşturulmuş kurumsal bir **ticaret şirketi ağı** simülasyonu. Bu proje; satış, insan kaynakları, finans, bilgi işlem ve yönetim gibi departmanlara ayrılmış VLAN yapısı, IP adresleme, yönlendirme, DHCP ve DNS ayarlarını içeren temel bir ağ altyapısı sunar.
 
 ## 📌 Proje Özeti
 
-Bu proje, orta ölçekli bir ticaret şirketi için hazırlanmış simülasyon tabanlı bir bilgisayar ağıdır. Aşağıdaki ana bileşenleri içerir:
+Bu ağ tasarımı, orta ölçekli bir şirketin temel IT altyapısını simüle etmeyi amaçlar. Simülasyon Cisco Packet Tracer üzerinde çalışacak şekilde hazırlanmıştır.
 
-- 📍 **VLAN Yapılandırması**: Departman bazlı ağ segmentasyonu  
-- 🔄 **Yönlendirme (Routing)**: Router’lar arası IP geçişi (statik/dinamik)  
-- 💻 **DHCP & DNS**: Otomatik IP ve isim çözümleme hizmeti     
-- 📂 **Sunucu Sistemleri**: Web, E-posta, DHCP ve DNS sunucuları
+### Uygulanan Bileşenler:
 
-## 🖥️ Kullanılan Teknolojiler
+- ✅ **VLAN Konfigürasyonu**: Departmanlara göre ağ segmentasyonu  
+- ✅ **Statik Yönlendirme**: Router’lar arasında IP trafiği  
+- ✅ **DHCP Sunucusu**: Otomatik IP dağıtımı  
+- ✅ **DNS Sunucusu**: Alan adı çözümlemesi  
+- ❌ **VoIP (IP Telefonlar)**: **Henüz entegre edilmedi**  
+- ❌ **Firewall (ASA)**: **Henüz entegre edilmedi**
 
-- Cisco Packet Tracer (≥ 8.x)
-- Cisco 2811 Router
-- Cisco 2960 Switch
-- DHCP, DNS, Web, Mail Server
+## 🖥️ Gereksinimler
+
+- [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) (Sürüm 8 veya üzeri önerilir)
+
 
 ## 🗂️ Dosya Yapısı
 
