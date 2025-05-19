@@ -6,6 +6,10 @@ Cisco Packet Tracer ile oluşturulmuş kurumsal bir **ticaret şirketi ağı** s
 
 Bu ağ tasarımı, orta ölçekli bir şirketin temel IT altyapısını simüle etmeyi amaçlar. Simülasyon Cisco Packet Tracer üzerinde çalışacak şekilde hazırlanmıştır.
 
+## 🖼️ Ağ Topolojisi
+
+![Ağ Topolojisi](topology.png)
+
 ### Uygulanan Bileşenler:
 
 - ✅ **VLAN Konfigürasyonu**: Departmanlara göre ağ segmentasyonu  
